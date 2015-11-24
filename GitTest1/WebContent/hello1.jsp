@@ -6,7 +6,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Insert title here</title>
 </head>
-<body>
+<body bgcolor="green">
 	<h2>Git Test1....</h2>
+	<input type="button" value="button">
 </body>
 </html>
